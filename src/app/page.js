@@ -4,7 +4,7 @@ import '../Style/pagemodule.css'
 export default function Home() {
   return (
     <div className='fondo'>
-      Inicio
+      Plan vacacional 
     </div>
   )
 }
