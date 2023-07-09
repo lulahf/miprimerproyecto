@@ -1,7 +1,7 @@
 const Servicios =()=>{
     return(
         <div>
-            el pep
+         esta es la pagina de servicios
         </div>
     )
 }
