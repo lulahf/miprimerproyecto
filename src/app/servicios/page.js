@@ -1,7 +1,7 @@
 const Servicios =()=>{
     return(
         <div>
-            el pepe
+            el pep
         </div>
     )
 }
